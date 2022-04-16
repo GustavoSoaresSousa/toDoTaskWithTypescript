@@ -14,6 +14,21 @@
 
 Clone the project and access the folder.
 
+```bash
+git clone https://github.com/GustavoSoaresSousa/toDoTaskWithTypescript
 
+cd toDoTaskWithTypescript
+```
 
-use npm i for install all dependecy
+Use npm i or yarn to install all dependecies.
+
+After start the project.
+
+```bash
+npm start
+
+or
+
+yarn start
+```
+You can see the project accessing browser at http://localhost:3000
