@@ -21,8 +21,12 @@
   margin: 25px 0 0 0;
 }
 
-.card .btn-card {
-  background-color: #fff;
+.btn-edit {
+  border: 0;
+  border: 1 solid #000;
+  border-radius: 8px;
+  margin-bottom: 5px;
+  cursor: pointer;
 }
 
 .card .line2 {
@@ -36,9 +40,12 @@
   font-weight: 600;
 }
 
-.card span {
+.card  button {
   cursor: pointer;
+  border: 0;
+  border: 1 solid #000;
+  border-radius: 8px;
   text-align: center;
-  color: #B6B6B7;
+  color: #000000;
   font-size: 14px;
 }
